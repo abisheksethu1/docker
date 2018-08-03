@@ -6,3 +6,4 @@
 5. [Container vs VM]()
 6. [Container vs Process](https://sites.google.com/site/mytechnicalcollection/cloud-computing/docker/container-vs-process)
 7. https://stackoverflow.com/questions/31237663/os-containers-isolation-vs-process-isolation
+8. https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
