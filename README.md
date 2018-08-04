@@ -9,3 +9,5 @@
 8. https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
 9. https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612
 10. https://www.networkcomputing.com/storage/docker-containers-what-makes-them-so-portable/1465322250
+11. [Docker Install for windows 10 Home](https://docs.docker.com/toolbox/overview/)
+12. https://docs.microsoft.com/en-us/virtualization/windowscontainers/about/
