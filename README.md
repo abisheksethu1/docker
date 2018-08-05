@@ -28,4 +28,7 @@ Another thing to think about is that because of this, you can run the same conta
 28. https://stackify.com/kubernetes-docker-deployments/  
 29. https://deis.com/blog/2016/docker-storage-introduction/https://stackoverflow.com/questions/34820558/difference-between-cgroups-and-namespaces  
 30. https://stackoverflow.com/questions/34820558/difference-between-cgroups-and-namespaces  
-31. https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon
+31. https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon  
+32. https://unix.stackexchange.com/questions/153585/how-does-the-oom-killer-decide-which-process-to-kill-first  
+33. https://www.slideshare.net/jpetazzo/cgroups-namespaces-and-beyond-what-are-containers-made-from-dockercon-europe-2015  
+34.
