@@ -23,3 +23,4 @@ Another thing to think about is that because of this, you can run the same conta
 23. https://www.google.com/imgres?imgurl=https://www.ccnahub.com/wp-content/uploads/2016/05/hypervisor.jpg&imgrefurl=https://www.ccnahub.com/linux/type-1-vs-2-hypervisor-virtualization-platform/&h=269&w=602&tbnid=URzolKEQs6CqOM:&q=type+1+and+type+2+hypervisors&tbnh=94&tbnw=211&usg=AFrqEzc-iqwofiR1L-5pdlG7dlYhMCtVAA&vet=1&docid=x4ypIldp61zTmM&sa=X&ved=2ahUKEwjf-6SAhNTcAhXBp1kKHYM4BFkQ9QEwAHoECAkQBg  
 24. https://medium.com/@paccattam/drooling-over-docker-2-understanding-union-file-systems-2e9bf204177c  
 25. https://washraf.gitbooks.io/the-docker-ecosystem/content/Chapter%201/Section%203/union_file_system.html  
+26. https://stackoverflow.com/questions/32775594/why-does-docker-need-a-union-file-system
