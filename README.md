@@ -24,3 +24,4 @@ Another thing to think about is that because of this, you can run the same conta
 24. https://medium.com/@paccattam/drooling-over-docker-2-understanding-union-file-systems-2e9bf204177c  
 25. https://washraf.gitbooks.io/the-docker-ecosystem/content/Chapter%201/Section%203/union_file_system.html  
 26. https://stackoverflow.com/questions/32775594/why-does-docker-need-a-union-file-system
+27. https://www.level-up.one/docker-kubernetes-best-architecture/
