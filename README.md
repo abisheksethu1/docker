@@ -26,5 +26,6 @@ Another thing to think about is that because of this, you can run the same conta
 26. https://stackoverflow.com/questions/32775594/why-does-docker-need-a-union-file-system
 27. https://www.level-up.one/docker-kubernetes-best-architecture/
 28. https://stackify.com/kubernetes-docker-deployments/  
-29. https://deis.com/blog/2016/docker-storage-introduction/https://stackoverflow.com/questions/34820558/difference-between-cgroups-and-namespaces
-30. https://stackoverflow.com/questions/34820558/difference-between-cgroups-and-namespaces
+29. https://deis.com/blog/2016/docker-storage-introduction/https://stackoverflow.com/questions/34820558/difference-between-cgroups-and-namespaces  
+30. https://stackoverflow.com/questions/34820558/difference-between-cgroups-and-namespaces  
+31. https://www.slideshare.net/jpetazzo/anatomy-of-a-container-namespaces-cgroups-some-filesystem-magic-linuxcon
