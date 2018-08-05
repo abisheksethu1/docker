@@ -20,3 +20,5 @@ This way instead of having a designer go through technical setup instructions th
 Another thing to think about is that because of this, you can run the same container/environment in production as you do on your local environment so that there is little to no difference in the two, which makes it easier to reproduce and fix production bugs, for example.
 20. https://www.quora.com/Why-is-Docker-useful
 21. https://www.level-up.one/docker-tutorial-containers-vms/
+23. https://www.google.com/imgres?imgurl=https://www.ccnahub.com/wp-content/uploads/2016/05/hypervisor.jpg&imgrefurl=https://www.ccnahub.com/linux/type-1-vs-2-hypervisor-virtualization-platform/&h=269&w=602&tbnid=URzolKEQs6CqOM:&q=type+1+and+type+2+hypervisors&tbnh=94&tbnw=211&usg=AFrqEzc-iqwofiR1L-5pdlG7dlYhMCtVAA&vet=1&docid=x4ypIldp61zTmM&sa=X&ved=2ahUKEwjf-6SAhNTcAhXBp1kKHYM4BFkQ9QEwAHoECAkQBg
+24. https://medium.com/@paccattam/drooling-over-docker-2-understanding-union-file-systems-2e9bf204177c
