@@ -32,3 +32,5 @@ Another thing to think about is that because of this, you can run the same conta
 32. https://unix.stackexchange.com/questions/153585/how-does-the-oom-killer-decide-which-process-to-kill-first  
 33. https://www.slideshare.net/jpetazzo/cgroups-namespaces-and-beyond-what-are-containers-made-from-dockercon-europe-2015  
 34.
+35 cgroups:
+https://events.static.linuxfound.org/images/stories/slides/jls09/jls09_kamezawa.pdf
